@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\CSharp-Fundamentals-2022-SoftUni-Arrays-Exercises\P09.Kamino_Factory\bin\Debug\net5.0\P09.Kamino_Factory.exe
+C:\Users\HP\source\repos\CSharp-Fundamentals-2022-SoftUni-Arrays-Exercises\P09.Kamino_Factory\bin\Debug\net5.0\P09.Kamino_Factory.deps.json
+C:\Users\HP\source\repos\CSharp-Fundamentals-2022-SoftUni-Arrays-Exercises\P09.Kamino_Factory\bin\Debug\net5.0\P09.Kamino_Factory.runtimeconfig.json
+C:\Users\HP\source\repos\CSharp-Fundamentals-2022-SoftUni-Arrays-Exercises\P09.Kamino_Factory\bin\Debug\net5.0\P09.Kamino_Factory.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CSharp-Fundamentals-2022-SoftUni-Arrays-Exercises\P09.Kamino_Factory\bin\Debug\net5.0\P09.Kamino_Factory.dll
+C:\Users\HP\source\repos\CSharp-Fundamentals-2022-SoftUni-Arrays-Exercises\P09.Kamino_Factory\bin\Debug\net5.0\ref\P09.Kamino_Factory.dll
+C:\Users\HP\source\repos\CSharp-Fundamentals-2022-SoftUni-Arrays-Exercises\P09.Kamino_Factory\bin\Debug\net5.0\P09.Kamino_Factory.pdb
+C:\Users\HP\source\repos\CSharp-Fundamentals-2022-SoftUni-Arrays-Exercises\P09.Kamino_Factory\obj\Debug\net5.0\P09.Kamino_Factory.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CSharp-Fundamentals-2022-SoftUni-Arrays-Exercises\P09.Kamino_Factory\obj\Debug\net5.0\P09.Kamino_Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharp-Fundamentals-2022-SoftUni-Arrays-Exercises\P09.Kamino_Factory\obj\Debug\net5.0\P09.Kamino_Factory.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharp-Fundamentals-2022-SoftUni-Arrays-Exercises\P09.Kamino_Factory\obj\Debug\net5.0\P09.Kamino_Factory.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharp-Fundamentals-2022-SoftUni-Arrays-Exercises\P09.Kamino_Factory\obj\Debug\net5.0\P09.Kamino_Factory.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharp-Fundamentals-2022-SoftUni-Arrays-Exercises\P09.Kamino_Factory\obj\Debug\net5.0\P09.Kamino_Factory.dll
+C:\Users\HP\source\repos\CSharp-Fundamentals-2022-SoftUni-Arrays-Exercises\P09.Kamino_Factory\obj\Debug\net5.0\ref\P09.Kamino_Factory.dll
+C:\Users\HP\source\repos\CSharp-Fundamentals-2022-SoftUni-Arrays-Exercises\P09.Kamino_Factory\obj\Debug\net5.0\P09.Kamino_Factory.pdb
+C:\Users\HP\source\repos\CSharp-Fundamentals-2022-SoftUni-Arrays-Exercises\P09.Kamino_Factory\obj\Debug\net5.0\P09.Kamino_Factory.genruntimeconfig.cache
