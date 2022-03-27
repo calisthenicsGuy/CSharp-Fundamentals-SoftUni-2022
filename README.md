@@ -1,6 +1,6 @@
 # CSharp-Fundamentals-SoftUni-2022
 
-1. Arrays
+1. [**Arrays**](https://github.com/calisthenicsGuy/CSharp-Fundamentals-SoftUni-2022/tree/main/01.%20Arrays)
 2. Arrays-Exercise
 3. Methods
 4. Methods-Exercise
