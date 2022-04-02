@@ -1,0 +1,14 @@
+﻿<h1>Hello World!</h1>
+<br />
+<p>This is the numbers! yee   :)</p>
+<p>This is the number range: @ViewBag.NumberRange</p>
+
+<form method="post">
+    <input type="text" placeholder="Enter number range" name="MyName"/>
+    <input type="submit"/ value="Submit">
+</form>
+
+@for (int i = 1; i <= ViewBag.NumberRange; i++)
+{
+    <p> Item @i</p>
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberRangeExample", "NumberRabgeExample\NumberRangeExample.csproj", "{FD07CCC9-65D1-415A-8E2D-8B57D538A730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD07CCC9-65D1-415A-8E2D-8B57D538A730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD07CCC9-65D1-415A-8E2D-8B57D538A730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD07CCC9-65D1-415A-8E2D-8B57D538A730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD07CCC9-65D1-415A-8E2D-8B57D538A730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DF2176D-B525-487A-839C-EE7656F66850}
+	EndGlobalSection
+EndGlobal
